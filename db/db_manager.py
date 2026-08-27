@@ -1044,6 +1044,7 @@ STORE_REGISTRY: Dict[str, type] = {
     "catarinense":      CatarinenseDB,
     "callfarma":        CallfarmaDB,
     "drogasmil":        DrogasmilDB,
+    "rosario":          RosarioDB,
 }
 
 
